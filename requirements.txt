@@ -119,7 +119,7 @@ ldap3==2.7
 libarchive-c==2.9
 llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
-lxml==4.6.2
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.2.0
 mccabe==0.6.1
