@@ -273,7 +273,7 @@ tweepy==3.9.0
 tweet-parser==1.13.2
 typing-extensions==3.7.4.3
 tzlocal==2.1
-ujson==1.35
+ujson==5.2.0
 unicodecsv==0.14.1
 Unidecode==1.1.1
 update-checker==0.18.0
