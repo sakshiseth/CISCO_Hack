@@ -137,7 +137,7 @@ multidict==5.1.0
 multipledispatch==0.6.0
 navigator-updater==0.2.1
 nbclient==0.5.1
-nbconvert==6.0.7
+nbconvert==6.5.1
 nbformat==5.0.8
 nest-asyncio==1.4.3
 netaddr==0.8.0
