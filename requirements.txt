@@ -156,7 +156,7 @@ opencv-contrib-python==4.4.0.44
 opencv-python==4.4.0.44
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 oslo.i18n==5.0.1
-oslo.utils==4.7.0
+oslo.utils==4.10.1
 packaging==20.7
 pandas==1.1.5
 pandocfilters==1.4.3
